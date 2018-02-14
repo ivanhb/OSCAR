@@ -1,4 +1,5 @@
-# OSCAR
+# OSCAR 
+##  - We moved this Repository to [opencitations/oscar](https://github.com/opencitations/oscar) -
 ### a general [S]earch [A]pplication for [R]df data specially designed for [O]pen [C]itations  
 #### - [OSCAR paper for SAVE-SD2018](https://essepuntato.github.io/papers/oscar-savesd2018.html)  
 
