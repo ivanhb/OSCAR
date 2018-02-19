@@ -1425,7 +1425,7 @@ var htmldom = (function () {
 		if (header_container != null) {
 			if (build_bool) {
 				retain_box_value(input_box_container,queryt);
-				var str_html = "<p><div id='search_loader' class='searchloader'> Searching the inside the Corpus ...</div></p>"+
+				var str_html = "<p><div id='search_loader' class='searchloader'> Searching inside the Corpus ...</div></p>"+
 											"<p><div id='abort_search' class='abort-search'><a href="+abort_link+" class='allert-a'> Abort search </a></div></p>"+
 											"";
 				parser = new DOMParser()
